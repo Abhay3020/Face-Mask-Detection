@@ -1,0 +1,2 @@
+python detect_mask_image_V3.py --image images/pic34.jpg
+python detect_mask_video_V3.py 
